@@ -21,6 +21,7 @@ namespace SortArray
 
             Console.WriteLine("Sorting in descending order");
 
+
             Array.Reverse(intArray);
 
 
