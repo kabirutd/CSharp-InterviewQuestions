@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWord", "ReverseWord\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CascadingExceptionHandling", "CascadingExceptionHandling\CascadingExceptionHandling.csproj", "{1FADDBFD-8691-4BF3-8EA1-BE94ECD8F134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutRefs", "OutRefs\OutRefs.csproj", "{E2B4C66C-A167-41A4-9F4E-10D314620BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutRefs", "OutRefs\OutRefs.csproj", "{E2B4C66C-A167-41A4-9F4E-10D314620BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarVsDynamic", "VarVsDynamic\VarVsDynamic.csproj", "{7D9B4187-00DE-4316-8779-4798275AC9CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VarVsDynamic", "VarVsDynamic\VarVsDynamic.csproj", "{7D9B4187-00DE-4316-8779-4798275AC9CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "==VsEquals", "==VsEquals\==VsEquals.csproj", "{71B4815D-0B06-49E5-9FCE-7FD683C37E2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "==VsEquals", "==VsEquals\==VsEquals.csproj", "{71B4815D-0B06-49E5-9FCE-7FD683C37E2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{420FFA51-D975-44DB-80A5-C82995082767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{420FFA51-D975-44DB-80A5-C82995082767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArray", "SortArray\SortArray.csproj", "{6B8DBA22-1940-4B30-BF38-C2C72A930E4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArray", "SortArray\SortArray.csproj", "{6B8DBA22-1940-4B30-BF38-C2C72A930E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A35B5DEA-67C1-4846-A8C6-8415E766C028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{6B8DBA22-1940-4B30-BF38-C2C72A930E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B8DBA22-1940-4B30-BF38-C2C72A930E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B8DBA22-1940-4B30-BF38-C2C72A930E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35B5DEA-67C1-4846-A8C6-8415E766C028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35B5DEA-67C1-4846-A8C6-8415E766C028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35B5DEA-67C1-4846-A8C6-8415E766C028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35B5DEA-67C1-4846-A8C6-8415E766C028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
