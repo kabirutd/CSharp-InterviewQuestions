@@ -29,6 +29,7 @@ namespace SortArray
             {
 
                 Console.WriteLine(i);
+
             }
 
 
