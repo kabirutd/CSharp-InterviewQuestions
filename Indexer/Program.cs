@@ -6,7 +6,9 @@ namespace Indexer
 {
 
     /*
-     C# introduces a new concept known as Indexers that allows are classes or stucts to be used as arrays. The indexers are usually known as smart arrays in C#. An indexer or an indexed property, is a class property that allows you to access a member 
+     C# introduces a new concept known as Indexers that allows are classes or stucts to be used as arrays. The indexers 
+     are usually known as smart arrays in C#. An indexer or an indexed property, is a class property that allows 
+     you to access a member 
      variable of a class or struct using the features of an array.
 
         Resources:

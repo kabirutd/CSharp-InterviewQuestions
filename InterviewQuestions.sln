@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewQuestions", "InterviewQuestions\InterviewQuestions.csproj", "{13BF433A-FA49-477A-A4A0-402D19F78395}"
 EndProject
@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArray", "SortArray\SortArray.csproj", "{6B8DBA22-1940-4B30-BF38-C2C72A930E4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A35B5DEA-67C1-4846-A8C6-8415E766C028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A35B5DEA-67C1-4846-A8C6-8415E766C028}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLiterals", "StringLiterals\StringLiterals.csproj", "{36A76928-81DA-4A0E-A801-506EA230A1EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringLiterals", "StringLiterals\StringLiterals.csproj", "{36A76928-81DA-4A0E-A801-506EA230A1EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{98112A3E-4F8F-41D0-8737-1E1C9F38AED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{98112A3E-4F8F-41D0-8737-1E1C9F38AED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumber", "SwapNumber\SwapNumber.csproj", "{7ADB312A-0069-4B67-93DC-8E9FEF206C33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{98112A3E-4F8F-41D0-8737-1E1C9F38AED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98112A3E-4F8F-41D0-8737-1E1C9F38AED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98112A3E-4F8F-41D0-8737-1E1C9F38AED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
