@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringLiterals", "StringLit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{98112A3E-4F8F-41D0-8737-1E1C9F38AED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumber", "SwapNumber\SwapNumber.csproj", "{7ADB312A-0069-4B67-93DC-8E9FEF206C33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapNumber", "SwapNumber\SwapNumber.csproj", "{7ADB312A-0069-4B67-93DC-8E9FEF206C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibinacciNumbersNUnitTests", "FibinacciNumbersNUnitTests\FibinacciNumbersNUnitTests.csproj", "{65173262-317C-49DF-A03C-DDAE33828461}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADB312A-0069-4B67-93DC-8E9FEF206C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65173262-317C-49DF-A03C-DDAE33828461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65173262-317C-49DF-A03C-DDAE33828461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65173262-317C-49DF-A03C-DDAE33828461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65173262-317C-49DF-A03C-DDAE33828461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
