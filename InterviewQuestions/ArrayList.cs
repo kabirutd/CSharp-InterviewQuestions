@@ -14,9 +14,9 @@ namespace InterviewQuestions
             Console.WriteLine("Class1");
             Console.WriteLine("===========================================================");
 
-            ArrayList arrayList1 = new ArrayList();
+            //ArrayList arrayList1 = new ArrayList();
 
-            arrayList1.
+            //arrayList1.
         }
     }
 }

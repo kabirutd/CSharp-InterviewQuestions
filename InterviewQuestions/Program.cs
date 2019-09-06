@@ -17,13 +17,13 @@ namespace InterviewQuestions
             Q1StoreDifferentTypeInArray.Q1StoreDifferentTypeInArrayMethod();
 
 
-            ArrayList arrayList1 = new ArrayList();
+            //ArrayList arrayList1 = new ArrayList();
 
 
 
             //calling abstract class method directly...can't instantiate abstract class
 
-            Class1.Method1();
+            //Class1.Method1();
 
             //Class1.
 

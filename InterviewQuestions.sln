@@ -33,11 +33,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapNumber", "SwapNumber\SwapNumber.csproj", "{7ADB312A-0069-4B67-93DC-8E9FEF206C33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{ABA38906-9AC7-470B-8F36-DB5D3972EA9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibinacciNumbersNUnitTests", "FibinacciNumbersNUnitTests\FibinacciNumbersNUnitTests.csproj", "{65173262-317C-49DF-A03C-DDAE33828461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibinacciNumbersNUnitTests", "FibinacciNumbersNUnitTests\FibinacciNumbersNUnitTests.csproj", "{65173262-317C-49DF-A03C-DDAE33828461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{7D11C2C7-ABD0-44A3-BD4F-235F4C9D2E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{7D11C2C7-ABD0-44A3-BD4F-235F4C9D2E5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{CFBA5F59-1218-4954-AE49-FD783BEACE16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDupChars", "RemoveDupChars\RemoveDupChars.csproj", "{1A932B4D-7240-481F-B4F7-2D0E5EB62A94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramStrings", "AnagramStrings\AnagramStrings.csproj", "{D647EFBA-6F6B-49BF-90EA-73512885A7B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramStringsTests", "AnagramStringsTests\AnagramStringsTests.csproj", "{3FAB3308-8550-433D-AE23-81FB3A46E4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDupsInArray", "CountDupsInArray\CountDupsInArray.csproj", "{D6C4E841-D99D-4399-BACC-90E84F59976C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +127,26 @@ Global
 		{7D11C2C7-ABD0-44A3-BD4F-235F4C9D2E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D11C2C7-ABD0-44A3-BD4F-235F4C9D2E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D11C2C7-ABD0-44A3-BD4F-235F4C9D2E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBA5F59-1218-4954-AE49-FD783BEACE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBA5F59-1218-4954-AE49-FD783BEACE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBA5F59-1218-4954-AE49-FD783BEACE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBA5F59-1218-4954-AE49-FD783BEACE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A932B4D-7240-481F-B4F7-2D0E5EB62A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A932B4D-7240-481F-B4F7-2D0E5EB62A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A932B4D-7240-481F-B4F7-2D0E5EB62A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A932B4D-7240-481F-B4F7-2D0E5EB62A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D647EFBA-6F6B-49BF-90EA-73512885A7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D647EFBA-6F6B-49BF-90EA-73512885A7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D647EFBA-6F6B-49BF-90EA-73512885A7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D647EFBA-6F6B-49BF-90EA-73512885A7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAB3308-8550-433D-AE23-81FB3A46E4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAB3308-8550-433D-AE23-81FB3A46E4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAB3308-8550-433D-AE23-81FB3A46E4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAB3308-8550-433D-AE23-81FB3A46E4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
