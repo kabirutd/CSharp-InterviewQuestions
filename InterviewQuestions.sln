@@ -47,7 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramStrings", "AnagramSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramStringsTests", "AnagramStringsTests\AnagramStringsTests.csproj", "{3FAB3308-8550-433D-AE23-81FB3A46E4CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDupsInArray", "CountDupsInArray\CountDupsInArray.csproj", "{D6C4E841-D99D-4399-BACC-90E84F59976C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountDupsInArray", "CountDupsInArray\CountDupsInArray.csproj", "{D6C4E841-D99D-4399-BACC-90E84F59976C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxing", "BoxingUnboxing\BoxingUnboxing.csproj", "{8636924C-A731-4A6A-862C-1C593C619813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchBlock", "CatchBlock\CatchBlock.csproj", "{093FF215-E90F-4D40-8F1E-183767FE0F06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C4E841-D99D-4399-BACC-90E84F59976C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8636924C-A731-4A6A-862C-1C593C619813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8636924C-A731-4A6A-862C-1C593C619813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8636924C-A731-4A6A-862C-1C593C619813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8636924C-A731-4A6A-862C-1C593C619813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093FF215-E90F-4D40-8F1E-183767FE0F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093FF215-E90F-4D40-8F1E-183767FE0F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093FF215-E90F-4D40-8F1E-183767FE0F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093FF215-E90F-4D40-8F1E-183767FE0F06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
