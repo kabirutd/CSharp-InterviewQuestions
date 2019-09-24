@@ -10,6 +10,7 @@ namespace ReverseString
             Console.Write("Input a string and hit enter to reverse: ");
             string str = Console.ReadLine().ToString();
             Console.WriteLine(DoReverseString(str));
+
         }
 
         static string DoReverseString(string str)
