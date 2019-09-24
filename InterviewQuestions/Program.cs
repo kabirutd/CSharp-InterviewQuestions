@@ -17,6 +17,7 @@ namespace InterviewQuestions
             Q1StoreDifferentTypeInArray.Q1StoreDifferentTypeInArrayMethod();
 
 
+
             //ArrayList arrayList1 = new ArrayList();
 
 

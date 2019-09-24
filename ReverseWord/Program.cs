@@ -19,8 +19,25 @@ namespace ReverseWord
                                         .Split(' ')
                                         .Select(x => new String(x.Reverse().ToArray())));
 
-            /*
-             JavaScript Code
+            //METHOD 2
+            //===================================
+
+            //Console.WriteLine(resultString);
+
+            Console.WriteLine($"Reverse of '{inputString}' is '{ReverseString(inputString)}'" );
+
+        }
+
+        static string ReverseString(string str)
+        {
+
+            return new string(str.ToCharArray().Reverse().ToArray());
+        }
+
+
+
+        /*
+         JavaScript Code
 
         function reverseString(str)
         {
@@ -32,8 +49,6 @@ namespace ReverseWord
                                         .join ('');
             return resultString;
          }    
-             */
-            Console.WriteLine(resultString);
-        }
+         */
     }
 }
