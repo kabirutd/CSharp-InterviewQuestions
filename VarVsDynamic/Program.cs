@@ -13,12 +13,12 @@ namespace VarVsDynamic
 
             var x = "string 1";
             int l = x.Length;
-            //x = 12; //will throw error is x is var and of type string
+            //x = 12; //will throw error since x is a var and of type string
 
             dynamic y = "String 2";
             int l2 = y.Length;
 
-            y = 12; //will not throw error is y is a dynamic var
+            y = 12; //will not throw error since y is a dynamic var
 
 
 

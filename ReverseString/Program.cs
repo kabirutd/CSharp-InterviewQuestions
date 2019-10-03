@@ -7,8 +7,10 @@ namespace ReverseString
     {
         static void Main(string[] args)
         {
-            string str = "Reverse This!";
+            Console.Write("Input a string and hit enter to reverse: ");
+            string str = Console.ReadLine().ToString();
             Console.WriteLine(DoReverseString(str));
+
         }
 
         static string DoReverseString(string str)
