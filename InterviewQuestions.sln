@@ -59,7 +59,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeTests", "Palindro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeCheckerTest", "PalindromeCheckerTest\PalindromeCheckerTest.csproj", "{819C7E48-39D7-42E4-B149-8273BFBAC20B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchExpression", "SwitchExpression\SwitchExpression.csproj", "{1D673D29-202C-412D-ADF2-9AD8B6C74037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchExpression", "SwitchExpression\SwitchExpression.csproj", "{1D673D29-202C-412D-ADF2-9AD8B6C74037}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HanoiTowers", "HanoiTowers\HanoiTowers.csproj", "{9533088B-1102-458B-B892-D2F29D60710A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{1D673D29-202C-412D-ADF2-9AD8B6C74037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D673D29-202C-412D-ADF2-9AD8B6C74037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D673D29-202C-412D-ADF2-9AD8B6C74037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9533088B-1102-458B-B892-D2F29D60710A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9533088B-1102-458B-B892-D2F29D60710A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9533088B-1102-458B-B892-D2F29D60710A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9533088B-1102-458B-B892-D2F29D60710A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
