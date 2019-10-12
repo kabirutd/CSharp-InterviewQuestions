@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchExpression", "SwitchE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HanoiTowers", "HanoiTowers\HanoiTowers.csproj", "{9533088B-1102-458B-B892-D2F29D60710A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{A378B85E-0655-44B3-9A8C-7CC17695D46D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE5A1073-BDB5-4A1F-A0F5-BF46FD3CBAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A378B85E-0655-44B3-9A8C-7CC17695D46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A378B85E-0655-44B3-9A8C-7CC17695D46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A378B85E-0655-44B3-9A8C-7CC17695D46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A378B85E-0655-44B3-9A8C-7CC17695D46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
